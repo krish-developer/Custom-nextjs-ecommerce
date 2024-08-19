@@ -5,7 +5,7 @@
   <h3 align="center">Custom E-Commerce Platform</h3>
   <p align="center">
     Secure, scalable, and feature-rich e-commerce solution.
-  </p>
+  </p> 
 </div>
 
 ## About The Project
